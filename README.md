@@ -11,7 +11,7 @@ Silver, Gold) to deliver analytics-ready datasets.
 
 Description 
 
--Built an automated data pipeline using Azure Data Factory (ADF) to ingest data from multiple 
+- Built an automated data pipeline using Azure Data Factory (ADF) to ingest data from multiple 
 sources (HTTP, SQL). 
 
 - Stored and organized data in Azure Data Lake Storage Gen2 (ADLS) with Hierarchical 
